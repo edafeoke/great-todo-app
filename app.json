@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "great-todo-app",
+    "slug": "great-todo-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "great-todo-app"
+}
